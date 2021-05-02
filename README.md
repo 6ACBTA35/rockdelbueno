@@ -2,34 +2,44 @@
 
 <h1 align="center">LETRAS DE ROCK CLÁSICO</h1>
 
-<p align="justify">El contenido de este repositorio, se desarrolla como parte del trabajo de titulación, de alumnos de último semestre de la especialidad en programción, del Centro de Bachillerato Tecnológico Agropecuario No.35.</p>
-
-<p align="justify">El objetivo de este proyecto es generar un banco de reactivos de distintas asignaturas, a través de un proceso colaborativo en el cual los estudiantes involucrados, trabajaran un conjunto de reactivos sobre algún tema, previante asignado y actualizarán su trabajo en una rama específica, creando una petición para fusionar el trabajo realizado por cada uno de ellos a la rama correspondiente.</p>
-
-<p align="justify">Una vez revisados y aprobados los cambios por parte del coordinador, el contenido en cada una de las distintas ramas, se fusionará con la rama principal del proyecto.</p>
+<p align="center">El propósito de este repositorio es conformar, distintas letras de canciones de las mejores bandas de Rock de todos los tiempos. A manera de ejercicio práctico, los participantes trabajarán de forma colaborativa, realizando la búsqueda, redacción y contribución de las letras que prefieran, seleccionando alguna de las bandas disponibles en el catálogo de bandas</p>
 
 ## Indicaciones generales
 
+- Estrictamente prohibido, subir texto relacionado a : <strong>Música de Banda</strong>, <strong>Reguetón</strong>, <strong>Narco Corridos</strong>, y en general cualquier tipo de música ajena al propósito de este repossitorio.
 - Cada estudiante enviara sus peticiones sobre la rama de trabajo que le ha sido asignada
-- Antes de enviar su trabajo a revisión, verifica el texto y tu redacción.  
+- Antes de enviar tu trabajo a revisión, verifica el texto, la redacción y el formato
+- El archivo que contiene la letra que trabajaste, debe estar en formato .doc
 
-## Contenido
+## Catálogo de bandas
 
-Los reactivos que se trabajaran, estan relacionados a las siguientes asignaturas o áreas de conocimiento.
+Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de Rock que se listan a continuación.
 
- - Bases de datos
- - HTML5
- - CSS
- - SQL
+ - Pink Floyd
+ - Pearl Jam
+ - Queen
+ - Metallica
+ - The Rolling Stones
+ - Creedence Clearwater Revival
+ - The Doors
+ - Guns N' Roses
+ - Aerosmith
+ - Ramones
+ - Deep Purple
+ - The Beatles
+ - Dire Straits
+ - Aerosmith
+ - Status Quo
 
-## Colaboradores
+## Dinámica
 
-Los estudiantes que participan en este proyecto son:
+Los participantes deberan:
 
- - Ivan Ramos Hernández
- - Eduardo Reyes Moreno
- - Quetzaly Betzabet Rodriguez
- - Angel Aaron Trujillo Santes
- - Luz Maria Avendano Martinez
- - Neftali Mendoza Mena
- - Gabriela López Lerdo
+ 1. Clonar el repositorio.
+ 2. Seleccionar una banda.
+ 3. Buscar la letra de la canción que van a trabajar.
+ 4. Identificar el nombre del disco, donde se incluye la canción seleccionada.
+ 5. Identificar el url donde se puede escuchar la canción (youtube, spotify. etc.).
+ 6. Crear un archivo de texto por cada canción (revisar formato).
+ 7. Colocar el archivo en la carpeta de la banda que corresponda.
+ 8. 
