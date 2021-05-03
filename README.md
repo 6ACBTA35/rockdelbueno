@@ -2,7 +2,7 @@
 
 <h1 align="center">LETRAS DE ROCK CLÁSICO</h1>
 
-<p align="justify">El propósito de este repositorio es conformar, distintas letras de canciones de las mejores bandas de Rock de todos los tiempos. A manera de ejercicio práctico, los participantes trabajarán de forma colaborativa, realizando la búsqueda, redacción y contribución de las letras que prefieran, seleccionando alguna de las bandas disponibles en el catálogo de bandas</p>
+<p align="justify">El propósito de este repositorio es conformar, distintas letras de canciones de las mejores bandas de Rock de todos los tiempos. A manera de ejercicio práctico, los participantes trabajarán de forma colaborativa, realizando la búsqueda, redacción y contribución de las letras que prefieran, seleccionando alguna de las bandas disponibles en el catálogo de bandas.</p>
 
 ## Indicaciones generales
 
