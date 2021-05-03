@@ -6,9 +6,9 @@
 
 ## Indicaciones generales
 
-- Estrictamente prohibido, subir texto relacionado a : <strong>Música de Banda</strong>, <strong>Reguetón</strong>, <strong>Narco Corridos</strong>, y en general cualquier tipo de música ajena al propósito de este repossitorio.
-- Cada estudiante enviara sus peticiones sobre la rama de trabajo que le ha sido asignada
-- Antes de enviar tu trabajo a revisión, verifica el texto, la redacción y el formato
+- Estrictamente prohibido, subir texto relacionado a: <strong>Música de Banda</strong>, <strong>Reguetón</strong>, <strong>Narco Corridos</strong>, y en general cualquier tipo de música ajena al propósito de este repositorio.
+- Cada estudiante enviara sus peticiones, sobre la rama de trabajo que se indique durante el ejercicio.
+- Antes de enviar tu trabajo a revisión, verifica el texto, la redacción y el formato.
 - El archivo que contiene la letra que trabajaste, debe estar en formato .doc
 
 ## Catálogo de bandas
@@ -30,6 +30,21 @@ Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de 
  - Dire Straits
  - Aerosmith
  - Status Quo
+
+## Formato
+
+Cada letra debe ir en un documento (una canción por archivo), con fuente Arial de 12 pts, todo el texto debe estar alineado a la izquierda, siguiendo el orden que se establece a continuación.
+
+ - <strong>Nombre del archivo</strong>: Texto en minuscula, en caso de ser necesario, separar las palabras con un guión medio (-) para una mejor lectura. Ejemplos: <strong>la-casa-del-sol-naciente.doc</strong>, <strong>sombras-en-la-oscuridad.doc</strong>.
+ 
+ 1. <strong>Título</strong>: Texto en negrita.
+ 2. <strong>Album</strong>: Indicar el nombre del disco donde se incluye la canción seleccionada.
+ 3. <strong>URL de la rola</strong>: Indicar el url donde se pueda escuchar la canción. Introducir el texto con la opción URL, <strong>no copiar y pegar</strong>.
+ 4. <strong>Cuerpo</strong>: Estrofas de la canción, cuidando la redacción y espacios. 
+
+
+
+
 
 ## Dinámica
 
