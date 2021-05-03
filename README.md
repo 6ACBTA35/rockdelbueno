@@ -24,7 +24,7 @@ Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de 
  - The Doors
  - Guns N' Roses
  - Aerosmith
- - Ramones
+ - Scorpions
  - Deep Purple
  - The Beatles
  - Dire Straits
@@ -39,11 +39,8 @@ Cada letra debe ir en un documento (una canción por archivo), con fuente Arial 
  
  1. <strong>Título</strong>: Texto en negrita.
  2. <strong>Album</strong>: Indicar el nombre del disco donde se incluye la canción seleccionada.
- 3. <strong>URL de la rola</strong>: Indicar el url donde se pueda escuchar la canción. Introducir el texto con la opción URL, <strong>no copiar y pegar</strong>.
+ 3. <strong>URL de la rola</strong>: Indicar el url donde se pueda escuchar la canción. Introducir el texto con la opción "insertar hipervínculo", <strong>no copiar y pegar</strong>.
  4. <strong>Cuerpo</strong>: Estrofas de la canción, cuidando la redacción y espacios. 
-
-
-
 
 
 ## Dinámica
