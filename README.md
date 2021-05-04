@@ -30,7 +30,7 @@ Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de 
 
 Cada letra debe ir en un documento (una canción por archivo), con fuente Arial, todo el texto debe estar alineado a la izquierda, siguiendo el orden que se establece a continuación.
 
- - <strong>Nombre del archivo</strong>: Texto en minúsculas, en caso de ser necesario, separar las palabras con un guión medio (-) para una mejor lectura. Ejemplos: <strong>la-casa-del-sol-naciente.doc</strong>, <strong>sombras-en-la-oscuridad.doc</strong>.
+ - <strong>Nombre del archivo</strong>: Texto en minúsculas, en caso de ser necesario, separar las palabras con un guión medio (-) para una mejor lectura. Ejemplos: <strong>la-casa-del-sol-naciente.pdf</strong>, <strong>sombras-en-la-oscuridad.pdf</strong>.
  
  1. <strong>Título</strong>: Texto en negrita, 16 pts.
  2. <strong>Album</strong>: Indicar el nombre del disco donde se incluye la canción seleccionada. Texto en cursiva 12 pts.
