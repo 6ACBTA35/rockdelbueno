@@ -15,32 +15,33 @@
 
 Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de Rock que se listan a continuación.
 
- - Pink Floyd
- - Pearl Jam
- - Queen
- - Metallica
- - The Rolling Stones
- - Creedence Clearwater Revival
- - The Doors
- - Guns N' Roses
- - Aerosmith
- - Scorpions
- - Deep Purple
- - The Beatles
- - Dire Straits
- - Aerosmith
- - Status Quo
+ 1.  Pink Floyd
+ 2.  Pearl Jam
+ 3.  Queen
+ 4.  Metallica
+ 5.  The Rolling Stones
+ 6.  Creedence Clearwater Revival
+ 7.  The Doors
+ 8.  Guns N' Roses
+ 9.  Aerosmith
+ 10. Scorpions
+ 11. Deep Purple
+ 12. The Beatles
+ 13. Dire Straits
+ 14. Aerosmith
+ 15. Status Quo
 
 ## Formato
 
-Cada letra debe ir en un documento (una canción por archivo), con fuente Arial de 12 pts, todo el texto debe estar alineado a la izquierda, siguiendo el orden que se establece a continuación.
+Cada letra debe ir en un documento (una canción por archivo), con fuente Arial, todo el texto debe estar alineado a la izquierda, siguiendo el orden que se establece a continuación.
 
- - <strong>Nombre del archivo</strong>: Texto en minuscula, en caso de ser necesario, separar las palabras con un guión medio (-) para una mejor lectura. Ejemplos: <strong>la-casa-del-sol-naciente.doc</strong>, <strong>sombras-en-la-oscuridad.doc</strong>.
+ - <strong>Nombre del archivo</strong>: Texto en minúsculas, en caso de ser necesario, separar las palabras con un guión medio (-) para una mejor lectura. Ejemplos: <strong>la-casa-del-sol-naciente.doc</strong>, <strong>sombras-en-la-oscuridad.doc</strong>.
  
- 1. <strong>Título</strong>: Texto en negrita.
- 2. <strong>Album</strong>: Indicar el nombre del disco donde se incluye la canción seleccionada.
- 3. <strong>URL de la rola</strong>: Indicar el url donde se pueda escuchar la canción. Introducir el texto con la opción "insertar hipervínculo", <strong>no copiar y pegar</strong>.
- 4. <strong>Cuerpo</strong>: Estrofas de la canción, cuidando la redacción y espacios. 
+ 1. <strong>Título</strong>: Texto en negrita, 16 pts.
+ 2. <strong>Album</strong>: Indicar el nombre del disco donde se incluye la canción seleccionada. Texto en cursiva 12 pts.
+ 3. <strong>URL de la rola</strong>: Indicar el url donde se pueda escuchar la canción. Introducir el texto con la opción "insertar hipervínculo", <strong>no copiar y pegar</strong>. Texto en cursiva 12 pts.
+ 4.  <strong>Elaborado por</strong>: Indicar el nombre de quien elaboro el archivo. Texto en cursiva 12 pts.
+ 5. <strong>Cuerpo</strong>: Estrofas de la canción, cuidando la redacción y espacios. Texto en cursiva 12 pts. Cuando el texto supere una hoja, reducir el puntaje para que se ajuste a una sola.
 
 
 ## Dinámica
