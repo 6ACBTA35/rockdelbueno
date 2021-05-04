@@ -9,7 +9,7 @@
 - Estrictamente prohibido, subir texto relacionado a: <strong>Música de Banda</strong>, <strong>Reguetón</strong>, <strong>Narco Corridos</strong>, y en general cualquier tipo de música ajena al propósito de este repositorio.
 - Cada estudiante enviara sus peticiones, sobre la rama de trabajo que se indique durante el ejercicio.
 - Antes de enviar tu trabajo a revisión, verifica el texto, la redacción y el formato.
-- El archivo que contiene la letra que trabajaste, debe estar en formato .doc
+- El archivo que contiene la letra que trabajaste, debe estar en formato .pdf
 
 ## Catálogo de bandas
 
@@ -50,4 +50,6 @@ Los participantes deberan:
  5. Identificar el url donde se puede escuchar la canción (youtube, spotify. etc.).
  6. Crear un archivo de texto por cada canción (revisar formato).
  7. Colocar el archivo en la carpeta de la banda que corresponda. Teniendo en cuenta el número que se le asigno, en el catálogo de bandas.
- 8. Agregar y hacer commit al reposotorio local.
+ 8. Agregar y hacer commit al reposotorio local sobre la rama que se especifique en el ejercicio.
+ 9. Ir al repositorio y hacer un "Pull Request" del "Commit" que realizo en el paso anterior.
+ 10. Una vez aceptados los cambios, fusionar su trabajo a la rama principal y borrar la rama alterna.
