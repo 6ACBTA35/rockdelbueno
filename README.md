@@ -25,11 +25,6 @@ Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de 
  8.  Guns N' Roses
  9.  Aerosmith
  10. Scorpions
- 11. Deep Purple
- 12. The Beatles
- 13. Dire Straits
- 14. Aerosmith
- 15. Status Quo
 
 ## Formato
 
