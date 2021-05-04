@@ -54,5 +54,5 @@ Los participantes deberan:
  4. Identificar el nombre del disco, donde se incluye la canción seleccionada.
  5. Identificar el url donde se puede escuchar la canción (youtube, spotify. etc.).
  6. Crear un archivo de texto por cada canción (revisar formato).
- 7. Colocar el archivo en la carpeta de la banda que corresponda.
+ 7. Colocar el archivo en la carpeta de la banda que corresponda. Teniendo en cuenta el número que se le asigno, en el catálogo de bandas.
  8. Agregar y hacer commit al reposotorio local.
