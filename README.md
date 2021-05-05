@@ -9,7 +9,7 @@
 - Estrictamente prohibido, subir texto relacionado a: <strong>Música de Banda</strong>, <strong>Reguetón</strong>, <strong>Narco Corridos</strong>, y en general cualquier tipo de música ajena al propósito de este repositorio.
 - Cada estudiante enviara sus peticiones, sobre la rama de trabajo que se indique durante el ejercicio.
 - Antes de enviar tu trabajo a revisión, verifica el texto, la redacción y el formato.
-- El archivo que contiene la letra que trabajaste, debe estar en formato .pdf
+- El archivo que contiene la letra que trabajaste, debe estar en formato .pdf.
 
 ## Catálogo de bandas
 
