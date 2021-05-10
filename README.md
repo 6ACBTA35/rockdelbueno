@@ -15,16 +15,16 @@
 
 Para el desarrollo del ejercio, únicamente se pueden seleccionar las bandas de Rock que se listan a continuación.
 
- 1.  Pink Floyd
- 2.  Pearl Jam
- 3.  Queen
- 4.  Metallica
- 5.  The Rolling Stones
- 6.  Creedence Clearwater Revival
- 7.  The Doors
- 8.  Guns N' Roses
- 9.  Aerosmith
- 10. Scorpions
+ - Pink Floyd
+ - Pearl Jam
+ - Queen
+ - Metallica
+ - The Rolling Stones
+ - Creedence Clearwater Revival
+ - The Doors
+ - Guns N' Roses
+ - Aerosmith
+ - Scorpions
 
 ## Formato
 
@@ -49,7 +49,7 @@ Los participantes deberan:
  4. Identificar el nombre del disco, donde se incluye la canción seleccionada.
  5. Identificar el url donde se puede escuchar la canción (youtube, spotify. etc.).
  6. Crear un archivo de texto por cada canción (revisar formato).
- 7. Colocar el archivo en la carpeta de la banda que corresponda. Teniendo en cuenta el número que se le asigno, en el catálogo de bandas.
+ 7. Colocar el archivo en la carpeta de la banda que corresponda.
  8. Agregar y hacer commit al reposotorio local sobre la rama que se especifique en el ejercicio.
  9. Ir al repositorio y hacer un "Pull Request" del "Commit" que realizo en el paso anterior.
  10. Una vez aceptados los cambios, fusionar su trabajo a la rama principal y borrar la rama alterna.
