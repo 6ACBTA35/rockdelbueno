@@ -58,4 +58,4 @@ Los participantes deberan:
 
 Puedes escuchar las canciones que forman parte de este proyecto desde Spotify.
 
-<iframe src="https://open.spotify.com/embed/playlist/4nvwatvJ0KunBJSHoH1OmR" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p><iframe src="https://open.spotify.com/embed/playlist/4nvwatvJ0KunBJSHoH1OmR" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><p/>
