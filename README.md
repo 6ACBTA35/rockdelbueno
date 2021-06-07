@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://images.vexels.com/media/users/3/145816/isolated/preview/7616b64374d1ecc318e9d638807c4d61-logotipo-de-signo-de-m-uacute-sica-rock-by-vexels.png"/> </p> 
+<p align="center"> <img src="https://images.vexels.com/media/users/3/145816/isolated/preview/7616b64374d1ecc318e9d638807c4d61-logotipo-de-signo-de-m-uacute-sica-rock-by-vexels.png"/></p> 
 
 <h1 align="center">LETRAS DE ROCK CLÁSICO</h1>
 
@@ -53,3 +53,9 @@ Los participantes deberan:
  8. Agregar y hacer commit al reposotorio local sobre la rama que se especifique en el ejercicio.
  9. Ir al repositorio y hacer un "Pull Request" del "Commit" que realizo en el paso anterior.
  10. Una vez aceptados los cambios, fusionar su trabajo a la rama principal y borrar la rama alterna.
+
+## Play list
+
+Puedes escuchar las canciones que forman parte de este proyecto desde Spotify.
+
+<iframe src="https://open.spotify.com/embed/playlist/4nvwatvJ0KunBJSHoH1OmR" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
